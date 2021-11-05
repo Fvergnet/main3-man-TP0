@@ -1,12 +1,12 @@
 # Conda environment with environment.yml
 
-[![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Fvergnet/main3-man-TP0.git/master?filepath=index.ipynb)
+[![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Fvergnet/main3-man-TP0.git/master?filepath=TP_0_Introduction_Python.ipynb)
 
 A Binder-compatible repo with an `environment.yml` file.
 
 Access this Binder by clicking the blue badge above or at the following URL:
 
-https://mybinder.org/v2/gh/Fvergnet/main3-man-TP0.git/master?filepath=index.ipynb
+https://mybinder.org/v2/gh/Fvergnet/main3-man-TP0.git/master?filepath=TP_0_Introduction_Python.ipynb
 
 ## Notes
 The `environment.yml` file should list all Python libraries on which your notebooks
