@@ -14,6 +14,6 @@ Ce tutoriel a pour but de présenter les librairies `numpy` et `matplotlib` de P
 
 De la documentation et des tutoriels sur disponibles sur le web pour prendre en main Numpy et Matplotlib. Un tutoriel très complet pour le calcul scientifique en Python peut par exemple être trouvé ici http://www.scipy-lectures.org/index.html. Les deux chapitres suivants son particulièrement intéressant :
 
-    Numpy: http://www.scipy-lectures.org/intro/numpy/index.html
-    Matplotlib: http://www.scipy-lectures.org/intro/matplotlib/index.html
+* Numpy: http://www.scipy-lectures.org/intro/numpy/index.html
+* Matplotlib: http://www.scipy-lectures.org/intro/matplotlib/index.html
 
